@@ -1,8 +1,8 @@
-# OpenLMIS Service Template
-This template is meant to be a starting point for developing a new 
-OpenLMIS 3.x Independent Service.
+# OpenLMIS Point of Delivery Service
+This service allows users to create/update point of delivery events - receive.
 
 ## Prerequisites
+* Java 1.8+
 * Docker 1.11+
 * Docker Compose 1.6+
 
